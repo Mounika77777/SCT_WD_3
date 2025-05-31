@@ -3,7 +3,7 @@
 
 An engaging and responsive web-based quiz game built using HTML, CSS, and JavaScript, designed to test users' knowledge across various topics with multiple question types.
 
-🔗 Live Demo://mounika77777.github.io/SCT_WD_3/ 
+🔗 Live Demo:https://mounika77777.github.io/SCT_WD_3/ 
 
 📌 Project Overview
 
